@@ -1,1 +1,3 @@
-# aliv4ikAutoTest.github.io
+# Auto Tests
+
+Auto tests example using Selenim Web driver.
